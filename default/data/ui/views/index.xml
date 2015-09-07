@@ -1,0 +1,7 @@
+<dashboard script="title.js">
+  <label>A Dashboard with a Managed Title</label>
+  <description>A simple demonstration of a splunk visualization in which the search is created using SimpleXML, but made accessible to SplunkJS</description>
+  <row>
+    <panel ref="cputime" />
+  </row>
+</dashboard>

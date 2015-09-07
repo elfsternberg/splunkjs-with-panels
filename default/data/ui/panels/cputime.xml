@@ -1,0 +1,10 @@
+<panel>
+  <table>
+    <title>Long-running processes</title>
+    <search id="cputimesearch">
+      <query>index=os source=ps | stats latest(cpu_time) by process | sort -latest(cpu_time) | rename latest(cpu_time) as "CPU Time", process as "Process"</query>
+      <earliest>-1h@h</earliest>
+      <latest>now</latest>
+    </search>
+  </table>
+</panel>
