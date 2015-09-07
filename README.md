@@ -1,10 +1,9 @@
 ### This Code Is...
 
-This repo is the sample code from the tutorial [Referencing SimpleXML
-Searches From SplunkJS In Remote
-Panels](http://elfsternberg.com/2015/09/06/splunk-splunkjs-simplexml1).
-You can either read that tutorial or find the notes in this directory
-in PDF form.
+This repo is the sample code from the tutorial
+[Referencing SimpleXML Searches From SplunkJS In Remote Panels](http://www.elfsternberg.com/2015/09/06/splunkjs-simplexml-panels/).
+You can either read that tutorial or find the notes in this directory in
+PDF form.
 
 ### Setup
 
