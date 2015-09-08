@@ -13,5 +13,5 @@ instance's apps directory.  Restart Splunk.  It should just work.
 ### Requirements
 
 This was tested with Splunk 6.2.  It's not likely to work with earlier
-versions that don't support &lt;panel ref="panelname"&gt; syntax.
+versions that don't support &lt;panel&nbsp;ref="panelname"&gt; syntax.
 
