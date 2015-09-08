@@ -13,5 +13,7 @@ instance's apps directory.  Restart Splunk.  It should just work.
 ### Requirements
 
 This was tested with Splunk 6.2.  It's not likely to work with earlier
-versions that don't support <kbd>&lt;panel&nbsp;ref="panelname"&gt;</kbd> syntax.
+versions that don't support
+<kbd>&lt;panel&nbsp;ref="panelname"&gt;</kbd> syntax.  This demo
+requires the [Splunk for Linux TA](https://splunkbase.splunk.com/app/833/).
 
